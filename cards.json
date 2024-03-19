@@ -1,0 +1,1853 @@
+{
+  "1": {
+    "card_name": "花凛",
+    "card_type": "SSR",
+    "card_prob": 90,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的费斯托斯圆盘",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "完整的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "花凛的神名文字",
+        "reward_amount": 15
+      }
+    ]
+  },
+  "2": {
+    "card_name": "花凛",
+    "card_type": "SSR",
+    "card_prob": 80,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的费斯托斯圆盘",
+        "reward_amount": 3
+      },
+      {
+        "reward_name": "完整的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "花凛的神名文字",
+        "reward_amount": 12
+      }
+    ]
+  },
+  "3": {
+    "card_name": "花凛",
+    "card_type": "SSR",
+    "card_prob": 80,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "完整的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "花凛的神名文字",
+        "reward_amount": 18
+      }
+    ]
+  },
+  "4": {
+    "card_name": "妮露",
+    "card_type": "SSR",
+    "card_prob": 90,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的费斯托斯圆盘",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "完整的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "妮露的神名文字",
+        "reward_amount": 15
+      }
+    ]
+  },
+  "5": {
+    "card_name": "妮露",
+    "card_type": "SSR",
+    "card_prob": 80,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的费斯托斯圆盘",
+        "reward_amount": 3
+      },
+      {
+        "reward_name": "完整的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "妮露的神名文字",
+        "reward_amount": 12
+      }
+    ]
+  },
+  "6": {
+    "card_name": "妮露",
+    "card_type": "SSR",
+    "card_prob": 80,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "完整的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "妮露的神名文字",
+        "reward_amount": 18
+      }
+    ]
+  },
+  "7": {
+    "card_name": "明日奈",
+    "card_type": "SSR",
+    "card_prob": 90,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的安提基瑟拉装置",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "完整的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "花凛的神名文字",
+        "reward_amount": 5
+      },
+      {
+        "reward_name": "妮露的神名文字",
+        "reward_amount": 10
+      }
+    ]
+  },
+  "8": {
+    "card_name": "明日奈",
+    "card_type": "SSR",
+    "card_prob": 80,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的安提基瑟拉装置",
+        "reward_amount": 3
+      },
+      {
+        "reward_name": "完整的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "花凛的神名文字",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "妮露的神名文字",
+        "reward_amount": 8
+      }
+    ]
+  },
+  "9": {
+    "card_name": "明日奈",
+    "card_type": "SSR",
+    "card_prob": 80,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "完整的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "花凛的神名文字",
+        "reward_amount": 6
+      },
+      {
+        "reward_name": "妮露的神名文字",
+        "reward_amount": 12
+      }
+    ]
+  },
+  "10": {
+    "card_name": "茜",
+    "card_type": "SSR",
+    "card_prob": 90,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的安提基瑟拉装置",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "完整的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "花凛的神名文字",
+        "reward_amount": 10
+      },
+      {
+        "reward_name": "妮露的神名文字",
+        "reward_amount": 5
+      }
+    ]
+  },
+  "11": {
+    "card_name": "茜",
+    "card_type": "SSR",
+    "card_prob": 80,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的安提基瑟拉装置",
+        "reward_amount": 3
+      },
+      {
+        "reward_name": "完整的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "花凛的神名文字",
+        "reward_amount": 8
+      },
+      {
+        "reward_name": "妮露的神名文字",
+        "reward_amount": 4
+      }
+    ]
+  },
+  "12": {
+    "card_name": "茜",
+    "card_type": "SSR",
+    "card_prob": 80,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "完整的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "花凛的神名文字",
+        "reward_amount": 12
+      },
+      {
+        "reward_name": "妮露的神名文字",
+        "reward_amount": 6
+      }
+    ]
+  },
+  "13": {
+    "card_name": "白兔",
+    "card_type": "SR",
+    "card_prob": 340,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 150000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "特级活动报告书",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "14": {
+    "card_name": "白兔",
+    "card_type": "SR",
+    "card_prob": 330,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 200000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "特级活动报告书",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "15": {
+    "card_name": "白兔",
+    "card_type": "SR",
+    "card_prob": 330,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 100000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "特级活动报告书",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "16": {
+    "card_name": "优香",
+    "card_type": "SR",
+    "card_prob": 340,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 150000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "高级强化珠",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "特级强化珠",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "17": {
+    "card_name": "优香",
+    "card_type": "SR",
+    "card_prob": 330,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 200000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "高级强化珠",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "特级强化珠",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "18": {
+    "card_name": "优香",
+    "card_type": "SR",
+    "card_prob": 330,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 100000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "高级强化珠",
+        "reward_amount": 3
+      },
+      {
+        "reward_name": "特级强化珠",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "19": {
+    "card_name": "邦妮保安",
+    "card_type": "R",
+    "card_prob": 1000,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 50000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级活动报告书",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "高级活动报告书",
+        "reward_amount": 2
+      }
+    ]
+  },
+  "20": {
+    "card_name": "邦妮保安",
+    "card_type": "R",
+    "card_prob": 1000,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 50000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级活动报告书",
+        "reward_amount": 3
+      },
+      {
+        "reward_name": "高级活动报告书",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "21": {
+    "card_name": "邦妮保安",
+    "card_type": "R",
+    "card_prob": 1000,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 50000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级活动报告书",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "高级活动报告书",
+        "reward_amount": 3
+      }
+    ]
+  },
+  "22": {
+    "card_name": "头盔团",
+    "card_type": "N",
+    "card_prob": 240,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 20000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级强化珠",
+        "reward_amount": 11
+      },
+      {
+        "reward_name": "高级强化珠",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "23": {
+    "card_name": "头盔团",
+    "card_type": "N",
+    "card_prob": 230,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 20000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级强化珠",
+        "reward_amount": 10
+      },
+      {
+        "reward_name": "高级强化珠",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "24": {
+    "card_name": "头盔团",
+    "card_type": "N",
+    "card_prob": 230,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 20000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级强化珠",
+        "reward_amount": 12
+      },
+      {
+        "reward_name": "高级强化珠",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "25": {
+    "card_name": "头盔团",
+    "card_type": "N",
+    "card_prob": 240,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 20000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级强化珠",
+        "reward_amount": 8
+      },
+      {
+        "reward_name": "高级强化珠",
+        "reward_amount": 3
+      }
+    ]
+  },
+  "26": {
+    "card_name": "头盔团",
+    "card_type": "N",
+    "card_prob": 230,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 20000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级强化珠",
+        "reward_amount": 9
+      },
+      {
+        "reward_name": "高级强化珠",
+        "reward_amount": 2
+      }
+    ]
+  },
+  "27": {
+    "card_name": "头盔团",
+    "card_type": "N",
+    "card_prob": 230,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 20000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级强化珠",
+        "reward_amount": 7
+      },
+      {
+        "reward_name": "高级强化珠",
+        "reward_amount": 4
+      }
+    ]
+  },
+  "28": {
+    "card_name": "兼职佣兵",
+    "card_type": "N",
+    "card_prob": 240,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 20000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级强化珠",
+        "reward_amount": 9
+      },
+      {
+        "reward_name": "高级强化珠",
+        "reward_amount": 2
+      }
+    ]
+  },
+  "29": {
+    "card_name": "兼职佣兵",
+    "card_type": "N",
+    "card_prob": 230,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 20000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级强化珠",
+        "reward_amount": 10
+      },
+      {
+        "reward_name": "高级强化珠",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "30": {
+    "card_name": "兼职佣兵",
+    "card_type": "N",
+    "card_prob": 230,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 20000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级强化珠",
+        "reward_amount": 8
+      },
+      {
+        "reward_name": "高级强化珠",
+        "reward_amount": 3
+      }
+    ]
+  },
+  "31": {
+    "card_name": "不良少女",
+    "card_type": "N",
+    "card_prob": 200,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 20000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级活动报告书",
+        "reward_amount": 8
+      },
+      {
+        "reward_name": "高级活动报告书",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "32": {
+    "card_name": "不良少女",
+    "card_type": "N",
+    "card_prob": 200,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 20000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级活动报告书",
+        "reward_amount": 7
+      },
+      {
+        "reward_name": "高级活动报告书",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "33": {
+    "card_name": "不良少女",
+    "card_type": "N",
+    "card_prob": 200,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 20000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级活动报告书",
+        "reward_amount": 9
+      },
+      {
+        "reward_name": "高级活动报告书",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "34": {
+    "card_name": "不良少女",
+    "card_type": "N",
+    "card_prob": 240,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 20000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级活动报告书",
+        "reward_amount": 7
+      },
+      {
+        "reward_name": "高级活动报告书",
+        "reward_amount": 2
+      }
+    ]
+  },
+  "35": {
+    "card_name": "不良少女",
+    "card_type": "N",
+    "card_prob": 230,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 20000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级活动报告书",
+        "reward_amount": 8
+      },
+      {
+        "reward_name": "高级活动报告书",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "36": {
+    "card_name": "不良少女",
+    "card_type": "N",
+    "card_prob": 230,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 20000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级活动报告书",
+        "reward_amount": 6
+      },
+      {
+        "reward_name": "高级活动报告书",
+        "reward_amount": 3
+      }
+    ]
+  },
+  "37": {
+    "card_name": "不良少女",
+    "card_type": "N",
+    "card_prob": 200,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 20000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级活动报告书",
+        "reward_amount": 10
+      },
+      {
+        "reward_name": "高级活动报告书",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "38": {
+    "card_name": "不良少女",
+    "card_type": "N",
+    "card_prob": 200,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 20000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级活动报告书",
+        "reward_amount": 9
+      },
+      {
+        "reward_name": "高级活动报告书",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "39": {
+    "card_name": "不良少女",
+    "card_type": "N",
+    "card_prob": 200,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 20000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "中级活动报告书",
+        "reward_amount": 11
+      },
+      {
+        "reward_name": "高级活动报告书",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "118": {
+    "card_name": "花凛",
+    "card_type": "SSR",
+    "card_prob": 100,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的费斯托斯圆盘",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "完整的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "花凛的神名文字",
+        "reward_amount": 15
+      }
+    ]
+  },
+  "119": {
+    "card_name": "花凛",
+    "card_type": "SSR",
+    "card_prob": 100,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的费斯托斯圆盘",
+        "reward_amount": 3
+      },
+      {
+        "reward_name": "完整的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "花凛的神名文字",
+        "reward_amount": 12
+      }
+    ]
+  },
+  "120": {
+    "card_name": "花凛",
+    "card_type": "SSR",
+    "card_prob": 100,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "完整的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "花凛的神名文字",
+        "reward_amount": 18
+      }
+    ]
+  },
+  "121": {
+    "card_name": "妮露",
+    "card_type": "SSR",
+    "card_prob": 100,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的费斯托斯圆盘",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "完整的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "妮露的神名文字",
+        "reward_amount": 15
+      }
+    ]
+  },
+  "122": {
+    "card_name": "妮露",
+    "card_type": "SSR",
+    "card_prob": 100,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的费斯托斯圆盘",
+        "reward_amount": 3
+      },
+      {
+        "reward_name": "完整的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "妮露的神名文字",
+        "reward_amount": 12
+      }
+    ]
+  },
+  "123": {
+    "card_name": "妮露",
+    "card_type": "SSR",
+    "card_prob": 100,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "完整的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "妮露的神名文字",
+        "reward_amount": 18
+      }
+    ]
+  },
+  "124": {
+    "card_name": "明日奈",
+    "card_type": "SSR",
+    "card_prob": 100,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的安提基瑟拉装置",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "完整的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "花凛的神名文字",
+        "reward_amount": 5
+      },
+      {
+        "reward_name": "妮露的神名文字",
+        "reward_amount": 10
+      }
+    ]
+  },
+  "125": {
+    "card_name": "明日奈",
+    "card_type": "SSR",
+    "card_prob": 100,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的安提基瑟拉装置",
+        "reward_amount": 3
+      },
+      {
+        "reward_name": "完整的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "花凛的神名文字",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "妮露的神名文字",
+        "reward_amount": 8
+      }
+    ]
+  },
+  "126": {
+    "card_name": "明日奈",
+    "card_type": "SSR",
+    "card_prob": 100,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "完整的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "花凛的神名文字",
+        "reward_amount": 6
+      },
+      {
+        "reward_name": "妮露的神名文字",
+        "reward_amount": 12
+      }
+    ]
+  },
+  "127": {
+    "card_name": "茜",
+    "card_type": "SSR",
+    "card_prob": 100,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的安提基瑟拉装置",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "完整的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "花凛的神名文字",
+        "reward_amount": 10
+      },
+      {
+        "reward_name": "妮露的神名文字",
+        "reward_amount": 5
+      }
+    ]
+  },
+  "128": {
+    "card_name": "茜",
+    "card_type": "SSR",
+    "card_prob": 100,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的安提基瑟拉装置",
+        "reward_amount": 3
+      },
+      {
+        "reward_name": "完整的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "花凛的神名文字",
+        "reward_amount": 8
+      },
+      {
+        "reward_name": "妮露的神名文字",
+        "reward_amount": 4
+      }
+    ]
+  },
+  "129": {
+    "card_name": "茜",
+    "card_type": "SSR",
+    "card_prob": 100,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 1000000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 4
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "完整的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "花凛的神名文字",
+        "reward_amount": 12
+      },
+      {
+        "reward_name": "妮露的神名文字",
+        "reward_amount": 6
+      }
+    ]
+  },
+  "130": {
+    "card_name": "白兔",
+    "card_type": "SR",
+    "card_prob": 1470,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 150000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "特级活动报告书",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "131": {
+    "card_name": "白兔",
+    "card_type": "SR",
+    "card_prob": 1470,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 200000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "特级活动报告书",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "132": {
+    "card_name": "白兔",
+    "card_type": "SR",
+    "card_prob": 1460,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 100000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的安提基瑟拉装置",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "特级活动报告书",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "133": {
+    "card_name": "优香",
+    "card_type": "SR",
+    "card_prob": 1470,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 150000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "高级强化珠",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "特级强化珠",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "134": {
+    "card_name": "优香",
+    "card_type": "SR",
+    "card_prob": 1470,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 200000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "高级强化珠",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "特级强化珠",
+        "reward_amount": 1
+      }
+    ]
+  },
+  "135": {
+    "card_name": "优香",
+    "card_type": "SR",
+    "card_prob": 1460,
+    "card_reward": [
+      {
+        "reward_name": "信用点",
+        "reward_amount": 100000
+      },
+      {
+        "reward_name": "骰子",
+        "reward_amount": 2
+      },
+      {
+        "reward_name": "装备箱",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "破碎的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "磨损的费斯托斯圆盘",
+        "reward_amount": 1
+      },
+      {
+        "reward_name": "高级强化珠",
+        "reward_amount": 3
+      },
+      {
+        "reward_name": "特级强化珠",
+        "reward_amount": 1
+      }
+    ]
+  }
+}
