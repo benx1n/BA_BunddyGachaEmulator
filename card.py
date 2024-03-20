@@ -35,7 +35,7 @@ class Card:
 
 
 # 每次刷新生成四张 3张应用基础概率 1张应用保底概率 打乱后四个位置给玩家选
-class Deck1:
+class Model1:
     @staticmethod
     def generate_cards():
         seed = time.time_ns() ^ int.from_bytes(urandom(8), "big")
@@ -49,7 +49,7 @@ class Deck1:
 
 
 # 每一抽默认普通概率 如果抽到了金后 则该轮均为普通概率；如果前三抽没出金彩，第四抽应用保底概率
-class Deck2:
+class Model2:
     @staticmethod
     def generate_cards():
         seed = time.time_ns() ^ int.from_bytes(urandom(8), "big")
@@ -82,9 +82,10 @@ class Simulation:
         self.strategies = {
             1: "单抽后重置",
             2: "抽到金彩后重置",
-            3: "抽到金后重置",
-            4: "抽到彩后重置",
-            5: "抽完四张后重置",
+            # 3: "抽到金后重置",
+            # 4: "抽到彩后重置",
+            # 5: "抽完四张后重置",
+            6: "第一张金彩刷新，第二张固定刷新",
         }
         self.choose_deck = choose_deck
 
@@ -122,6 +123,8 @@ class Simulation:
                     or (strategy == 3 and card.card_type == "SR")
                     or (strategy == 4 and card.card_type == "SSR")
                     or (strategy == 5 and len(cards) == 0)
+                    or (strategy == 6 and card.card_type in ["SR", "SSR"])
+                    or (strategy == 6 and len(cards) == 2)
                 ):
                     break
 
@@ -225,8 +228,8 @@ def print_strategy_differences(average_results, average_rewards):
 
 
 TOTAL_TOKENS = 120000
-NUM_SIMULATIONS = 100
-simulation = Simulation(TOTAL_TOKENS, NUM_SIMULATIONS, Deck1)
+NUM_SIMULATIONS = 1000
+simulation = Simulation(TOTAL_TOKENS, NUM_SIMULATIONS, Model1)
 average_results, average_rewards = simulation.simulate_strategies()
 
 print_strategy_differences(average_results, average_rewards)
